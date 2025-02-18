@@ -4,6 +4,12 @@ A web application for teachers to create quizzes with flexible options and a ric
 
 ## Demo
 
+
+
+https://github.com/user-attachments/assets/1cff9137-1782-4b28-ad30-76424dd9a925
+
+
+
 ## Features
 
 ### For Teachers:
